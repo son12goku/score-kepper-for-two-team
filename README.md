@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+
 xml file
 
 
@@ -258,4 +259,4 @@ xml file
         android:layout_centerHorizontal="true"
         android:text="RESET" />
     
-</RelativeLayout>
+	</RelativeLayout>
