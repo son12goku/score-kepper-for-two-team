@@ -132,7 +132,7 @@ xml file
                 android:id="@+id/team_a_score"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
+                android:layout_gravity="cente
                 android:fontFamily="sans-serif-light"
                 android:text="0"
                 android:textColor="#000000"
